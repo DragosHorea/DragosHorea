@@ -1,4 +1,5 @@
-### Hi there 👋
+Programmers when they are coding be like:
+![image](http://gph.is/1xhfQug)
 
 <!--
 **DragosHorea/DragosHorea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
