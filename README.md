@@ -1,5 +1,5 @@
 Programmers when they are coding be like:
-![image](http://gph.is/1xhfQug)
+![image](https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif)
 
 <!--
 **DragosHorea/DragosHorea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
